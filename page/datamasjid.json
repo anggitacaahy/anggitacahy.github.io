@@ -1,0 +1,37 @@
+[
+  {
+    "Nama Masjid": "MASJID JAMI BAITURRAHMAN",
+    "Alamat": "JALAN PRAMUKA",
+    "longitude": "-7.67715983951",
+    "latitude": "110.3350013118",
+    "fontawesome5icon": "mosque"
+  },
+  {
+    "Nama Masjid": "MASJID THALHAH BIN UBAIDILLAH",
+    "Alamat": "JALAN JEND. SUTOYO",
+    "longitude": "-7.42976000044",
+    "latitude": "109.22545000030",
+    "fontawesome5icon": "mosque"
+  },
+  {
+    "Nama Masjid": "MASJID JENDERAL BESAR SOEDIRMAN PURWOKERTO",
+    "Alamat": "JALAN GATOT SUBROTO",
+    "longitude": "-7.42083999982",
+    "latitude": "109.23430000036",
+    "fontawesome5icon": "mosque"
+  },
+  {
+    "Nama Masjid": "MASJID SOEDIRMAN",
+    "Alamat": "JALAN GATOT SUBROTO",
+    "longitude": "-7.4208399998",
+    "latitude": "109.2343000003",
+    "fontawesome5icon": "mosque"
+  },
+  {
+    "Nama Masjid": "MUSHOLA",
+    "Alamat": "JALAN GATOT SUBROTO",
+    "longitude": "-7.6315372888",
+    "latitude": "109.2337419008",
+    "fontawesome5icon": "mosque"
+  }
+]
